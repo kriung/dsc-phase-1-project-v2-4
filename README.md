@@ -1,4 +1,3 @@
-![Alt text](image-1-1.png)
 # MOVIE INDUSTRY ANALYSIS
 ### AUTHOR: KEVIN RIUNGU
 ### INTRODUCTION
@@ -35,11 +34,12 @@ Understanding the landscape of successful films in the box office requires a dee
 Understanding Box Office Success:
 Visualizing Box Office Trends: I utilized Box Office Mojo and The Numbers data to create intuitive graphs showcasing trends in box office revenues over time. This sheds light on what genres or film types tend to perform well financially.
 ![Alt text](image-2.png)
-![Alt text](image.png)
 ### Analyzing Audience Preferences:
 Genre Preference Across Platforms: Using data from IMDB, Rotten Tomatoes, and TheMovieDB, I crafted visualizations to demonstrate how different genres are received by audiences. This analysis could help in gauging the potential audience engagement for specific genres.
+![Alt text](image.png)
 ### Profitability and Critical Reception:
 Correlation between Ratings and Revenue: By juxtaposing ratings from IMDB and Rotten Tomatoes against box office revenues, I uncovered patterns in the relationship between critical reception and financial success.
+![Alt text](image-3.png)
 ### Recommendations:
 #### Genre Selection: 
 Based on the data, I recommend focusing on genres that consistently perform well at the box office and also receive positive ratings from audiences. Action and Adventure genres, for instance, have shown both financial success and positive reception, indicating a promising avenue for Microsoft's movie studio.
