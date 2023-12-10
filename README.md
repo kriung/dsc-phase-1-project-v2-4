@@ -45,7 +45,7 @@ Correlation between Ratings and Revenue: By juxtaposing ratings from IMDB and Ro
 ![Alt text](image-5.png)
 ### Recommendations:
 #### Genre Selection: 
-Based on the data, I recommend focusing on genres that consistently perform well at the box office and also receive positive ratings from audiences. Drama and documentary genres, for instance, have shown both financial success and positive reception, indicating a promising avenue for Microsoft's movie studio.
+Based on the data, I recommend focusing on genres that consistently perform well at the box office and also receive positive ratings from audiences. Science Fiction and adventure genres, for instance, have shown both financial success and positive reception, indicating a promising avenue for Microsoft's movie studio.
 
 #### Investment Strategy: 
 Consider allocating budget and resources judiciously by leveraging insights into high-performing genres. Allocate larger budgets for genres that historically yield higher box office revenues while balancing risk with potential rewards for emerging genres.
