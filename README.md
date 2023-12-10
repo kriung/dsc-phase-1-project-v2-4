@@ -1,3 +1,4 @@
+![Alt text](popcorn-1.jpg)
 # MOVIE INDUSTRY ANALYSIS
 ### AUTHOR: KEVIN RIUNGU
 ### INTRODUCTION
@@ -38,20 +39,21 @@ Visualizing Box Office Trends: I utilized Box Office Mojo and The Numbers data t
 ### Analyzing Audience Preferences:
 Genre Preference Across Platforms: Using data from IMDB, Rotten Tomatoes, and TheMovieDB, I crafted visualizations to demonstrate how different genres are received by audiences. This analysis could help in gauging the potential audience engagement for specific genres.
 ![Alt text](image.png)
-### Profitability and Critical Reception:
+![Alt text](image-6.png)
+### Profitability :
 Correlation between Ratings and Revenue: By juxtaposing ratings from IMDB and Rotten Tomatoes against box office revenues, I uncovered patterns in the relationship between critical reception and financial success.
 ![Alt text](image-5.png)
 ### Recommendations:
 #### Genre Selection: 
-Based on the data, I recommend focusing on genres that consistently perform well at the box office and also receive positive ratings from audiences. Action and Adventure genres, for instance, have shown both financial success and positive reception, indicating a promising avenue for Microsoft's movie studio.
+Based on the data, I recommend focusing on genres that consistently perform well at the box office and also receive positive ratings from audiences. Drama and documentary genres, for instance, have shown both financial success and positive reception, indicating a promising avenue for Microsoft's movie studio.
 
 #### Investment Strategy: 
-Consider allocating budget and resources judiciously by leveraging insights into high-performing genres. Allocate larger budgets for genres that historically yield higher box office revenues while balancing risk with potential rewards for niche or emerging genres.
+Consider allocating budget and resources judiciously by leveraging insights into high-performing genres. Allocate larger budgets for genres that historically yield higher box office revenues while balancing risk with potential rewards for emerging genres.
 
 #### Audience: 
 Tailor movie themes and narratives based on audience preferences highlighted in the data. Crafting stories that resonate with viewers, particularly in the favored genres, can increase the likelihood of box office success.
 
-Jupyter Notebook:
+#### Jupyter Notebook:
 The notebook contains detailed step-by-step exploratory analysis, including data cleaning, visualizations, and statistical insights, ensuring transparency in the process.
 GitHub Repository:
 The repository hosts all the code, data sources, and necessary files used in the analysis, promoting reproducibility and allowing for future enhancements or additional analysis.
