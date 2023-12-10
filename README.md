@@ -39,7 +39,7 @@ Genre Preference Across Platforms: Using data from IMDB, Rotten Tomatoes, and Th
 ![Alt text](image.png)
 ### Profitability and Critical Reception:
 Correlation between Ratings and Revenue: By juxtaposing ratings from IMDB and Rotten Tomatoes against box office revenues, I uncovered patterns in the relationship between critical reception and financial success.
-![Alt text](image-4.png)
+![Alt text](image-5.png)
 ### Recommendations:
 #### Genre Selection: 
 Based on the data, I recommend focusing on genres that consistently perform well at the box office and also receive positive ratings from audiences. Action and Adventure genres, for instance, have shown both financial success and positive reception, indicating a promising avenue for Microsoft's movie studio.
